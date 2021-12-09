@@ -1,4 +1,4 @@
-### démonstration thechnique
+### démonstration technique
 
 # HTML
 HyperText Mark-Up Language
